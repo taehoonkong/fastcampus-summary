@@ -7,3 +7,4 @@
 >   * [4. CSS3 BoxModel](4_css3_boxmodel.md)
 >   * [5. CSS3 Display](5_css3_display.md)
 >   * [6. CSS6 Background](6_css3_background.md)
+>   * [7. CSS6 Font&Text](7_css3_font&text.md)
