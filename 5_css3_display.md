@@ -1,6 +1,6 @@
 # 5. CSS3 Display
 
-## 5.1 Display Property
+## 5.1 display Property
 
 | Keyword | Description |
 | :------ | :---------- |
@@ -11,9 +11,9 @@
 
 > display property는 상속되지 않는다.
 
-### 5.1.1 block level property
+### 5.1.1 block level keyword
 
-### **block level property의 특징**
+### **block level keyword의 특징**
 
 * 항상 새로운 라인에서 시작한다(자동개행).
 * 화면 크기 전체의 가로폭을 차지한다(width: 100%).
@@ -50,9 +50,9 @@
 </html>
 ```
 
-### 5.1.2 inline level property
+### 5.1.2 inline level keyword
 
-### **inline level property의 특징**
+### **inline level keyword의 특징**
 
 * 새로운 라인에서 시작하지 않으며 문장의 중간에 들어갈 수 있다.
 * content의 너비만큼 가로폭을 차지한다(width: 100%).
@@ -84,9 +84,9 @@
 </html>
 ```
 
-### 5.1.3 inline-block level property
+### 5.1.3 inline-block level keyword
 
-### **inline-block level property의 특징**
+### **inline-block level keyword의 특징**
 
 * inline level 요소와 마찬가지로 줄을 바꾸지 않고 다른 요소들과 한 행에 위치 시킬 수 있다.
 * width, height, padding, margin, line-height를 모두 사용할 수 있다.
@@ -127,7 +127,7 @@
 >   font-size: 16px;
 > }
 
-## 5.2 Visibility Property
+## 5.2 visibility Property
 
 | Keyword | Description |
 | :------ | :---------- |
@@ -136,6 +136,6 @@
 | collapse | table 요소에서 사용하며 행이나 열을 보이지 않게 한다. |
 | none | FF, IE : table 요소에서 행이나 열을 보이지 않게 한다. CR : hidden |
 
-## 5.3 Opacity Property
+## 5.3 opacity Property
 
 ### 프로퍼티 요소의 투명도를 지정한다. 0.0(투명) >>> 1.0(불투명)

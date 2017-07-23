@@ -6,3 +6,4 @@
 >   * [3. CSS3 Units](3_css3_units.md)
 >   * [4. CSS3 BoxModel](4_css3_boxmodel.md)
 >   * [5. CSS3 Display](5_css3_display.md)
+>   * [6. CSS6 Background](6_css3_background.md)

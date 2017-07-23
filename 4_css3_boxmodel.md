@@ -10,7 +10,7 @@
 
 ---
 
-## 4.1 Width / Height Property
+## 4.1 width / height Property
 
 > ### **box-sizing**
 >
@@ -22,7 +22,7 @@
 >
 >   * content + padding + border가 포함된 영역을 Width / Height 프로퍼티의 대상으로 지정 가능하다.
 >
-> ### **Width**
+> ### **width**
 > * Default
 >   * auto(부모 요소의 100%)
 > * Option
@@ -30,12 +30,12 @@
 > ### **max-width & min-width**
 > * max-width : 요소 너비의 최대값 지정
 > * min-width : 요소 너비의 최소값 지정
-> ### **Height**
+> ### **height**
 > * Default
 >   * auto(content의 높이 + 여분)
 > * Option
 >   * 명시적으로 지정(px, em, % 등 크기단위 사용)
-> ### **Overflow**
+> ### **overflow**
 > * width와 height를 명시적으로 지정하였을 때 content가 지정한 content영역의 크기를 넘어가면 넘치게 된다.
 > * 해결방법 : overflow: hidden; 을 지정하면 넘친 content를 숨긴다.
 > ### **상속**
@@ -53,7 +53,7 @@ div {
 
 ---
 
-## 4.2 Padding / Margin Property
+## 4.2 padding / margin Property
 
 ### 4.2.1 padding / margin 프로퍼티는 네 방향으로 설정
 
@@ -101,7 +101,7 @@ div {
 
 ---
 
-## 4.3 Border Property
+## 4.3 border Property
 
 ### 4.3.1 border-style
 
