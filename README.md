@@ -9,3 +9,4 @@
 >   * [6. CSS6 Background](6_css3_background.md)
 >   * [7. CSS6 Font&Text](7_css3_font&text.md)
 >   * [8. CSS6 Position](8_css3_position.md)
+>   * [9. CSS6 Float](9_css3_float.md)
